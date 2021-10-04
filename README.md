@@ -1,6 +1,8 @@
 # Git Practice
-Here is a link to an article about API management: https://sdtimes.com/api/api-management-is-a-data-integration-problem/
+Here is a link to an article about API management: 
+https://sdtimes.com/api/api-management-is-a-data-integration-problem/
 
+### API management, and "data mesh"
 I never considered the potential issues behind managing an API, such as data ownership and data profiling.
 I also never realized how important APIs are in the context of the emergence of AI and machine learning.
 The article introduces the concept of a "data mesh" to help with the problem of API management, which,
