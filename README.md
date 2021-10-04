@@ -11,3 +11,8 @@ according to ThoughWorks, aims to challenge the norm of having data all in one p
 architecture, different data assets can be accessed and nintegrated within multiple different resources.
 It's pretty similar to what APIs already do: the data mesh is supposed to provide an interface for
 communication between the different resources.
+
+
+### Olivia Huang comments
+
+This article was interesting to me because if effeciently and effectively compartmentalized the concept of API management and "data mesh" to digestable considerations. I had never considered the implications of API management until this article navigated its related conditions. The most exciting part abbout reading it for me was in conceptualizing the democratization of data management and the best practices for API creation. In my own personal projects and internships, using libraries and APIs surfaced the implications of many privacy issues as well, and this article gave me much insight on the best practice to follow. 
