@@ -1,5 +1,6 @@
 # Git Practice
-Here is a link to an article about API management: 
+
+### Link to the article
 https://sdtimes.com/api/api-management-is-a-data-integration-problem/
 
 ### API management, and "data mesh"
